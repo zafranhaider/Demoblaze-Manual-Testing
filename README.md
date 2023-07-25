@@ -1,4 +1,4 @@
-#With Automation-Testing-A-Prdouct Store-Website
+#With Automation-Testing-A-Product Store-Website
 I will Test a Product Store As My First Github Projact
 Target WEBSITE (https://www.demoblaze.com/index.html)
 I Will TEST This and Keep Sharing Test Files accordingly
